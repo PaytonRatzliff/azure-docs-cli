@@ -9554,6 +9554,10 @@
           uid: az_network_vnet-gateway_ipsec-policy
           displayName: az network vnet-gateway ipsec-policy
           items: []
+        - name: migration
+          uid: az_network_vnet-gateway_migration
+          displayName: az network vnet-gateway migration
+          items: []
         - name: nat-rule
           uid: az_network_vnet-gateway_nat-rule
           displayName: az network vnet-gateway nat-rule
